@@ -1,5 +1,7 @@
 # Gemstones-multiclass-classification
 
+Multiclass classification can be solved using various algorithms such as logistic regression, decision trees, random forests, support vector machines (SVM), and deep neural networks. The performance of a multiclass classification model is typically evaluated using metrics such as accuracy, precision, recall, F1 score, and confusion matrix.
+
 This dataset contains 3,200+ images of different gemstones. The images are grouped into 87 classes which are already divided into train and test data. All images are in various sizes and are in .jpeg format.
 As for gemstones I tried to include them in various shapes - round, oval, square, rectangle, heart.
 
