@@ -1,3 +1,4 @@
+[![CI](https://github.com/pininduwk/Gemstones-multiclass-classification-CNN/actions/workflows/blank.yml/badge.svg)](https://github.com/pininduwk/Gemstones-multiclass-classification-CNN/actions/workflows/blank.yml)
 # Gemstones-multiclass-classification
 
 Multiclass classification can be solved using various algorithms such as logistic regression, decision trees, random forests, support vector machines (SVM), and deep neural networks. The performance of a multiclass classification model is typically evaluated using metrics such as accuracy, precision, recall, F1 score, and confusion matrix.
